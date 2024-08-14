@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benramo55
-- 👀 I’m interested in creating images and short videos
-- 🌱 I’m currently learning to write script
-- 💞️ I’m looking to collaborate on movie making
+- 👀 I’m interested creating images 
+- 🌱 I’m currently learning to create images on AI
+- 💞️ I’m looking to collaborate with creaters
 - 📫 you can reach by my mailbox
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
